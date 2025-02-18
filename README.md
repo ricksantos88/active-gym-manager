@@ -1,4 +1,4 @@
-## Rodar migration em amboente local
+## Rodar migration em ambiente local
 
 
 `migrate create -ext sql -dir ./infrastructure/migrations/ -seq create_fixed_informations_tables`
