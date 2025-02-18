@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"active-gym-manager/model"
+	"active-gym-manager/internal/domain/model"
 	"database/sql"
 )
 

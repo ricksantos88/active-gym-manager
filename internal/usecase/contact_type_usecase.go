@@ -1,8 +1,8 @@
 package usecase
 
 import (
+	"active-gym-manager/internal/domain/model"
 	"active-gym-manager/internal/repository"
-	"active-gym-manager/model"
 )
 
 type ContactTypeUsecase struct {
